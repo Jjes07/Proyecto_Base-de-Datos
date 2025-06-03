@@ -109,12 +109,37 @@ database = "nodo"
 * Entrega de tareas y participación en foros
 * Reportes para administrador
 
-* [Login](img_doc/login.png)
-* [Menú Administrador](img_doc/menu_admin.png)
-* [Menú Profesor](img_doc/menu_profe.png)
-* [Menú Curso de Profesor](img_doc/menu_profe_curso.png)
-* [Menú Estudiante](img_doc/menu_est.png)
-* [Menú Curso de Estudiante](img_doc/menu_est_curso.png)
+## Imágenes dentro del programa
+
+* Inicio de Sesión
+ <p align="center">
+  <img src="img_doc/login.png" alt="Inicio de Sesión">
+</p>
+
+* Menú del Administrador
+<p align="center">
+  <img src="img_doc/menu_admin.png" alt="Menú del Administrador">
+</p>
+  
+* Menú del Profesor
+<p align="center">
+  <img src="img_doc/menu_profe.png" alt="Menú del Profesor">
+</p>
+  
+* Menú de los cursos de un Profesor
+<p align="center">
+  <img src="img_doc/menu_profe_curso.png" alt="Menú de los cursos de un Profesor">
+</p>
+  
+* Menú del Estudiante
+<p align="center">
+  <img src="img_doc/menu_est.png" alt="Menú del Estudiante">
+</p>
+  
+* Menú de los cursos de un estudiante
+<p align="center">
+  <img src="img_doc/menu_est_curso.png" alt="Menú de los cursos de un estudiante">
+</p>
 
 # 4. Ambiente de ejecución
 
