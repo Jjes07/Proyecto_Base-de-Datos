@@ -30,7 +30,8 @@ Este proyecto consiste en el diseño e implementación de una aplicación para l
 * No se implementó manejo de archivos reales (solo se simula con nombres).
 * No se implementó validación avanzada de formularios.
 * No se integró despliegue en nube o servidor de producción.
-* No se implementó un manejo de errores completo. 
+* No se implementó un manejo de errores completo.
+* No existe gran diversidad de filtros en las busquedas.
 
 # 2. Información general de diseño de alto nivel
 
